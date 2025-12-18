@@ -14,6 +14,18 @@ MzT7q!UzW-F9SmH
 
 Финальный проект по автоматизации тестирования UI и API сайта Кинопоиск.
 
+# Автоматизация тестирования Кинопоиска
+
+Финальный проект по автоматизации тестирования UI и API сайта Кинопоиск.
+
+
+Ссылка на тест-план (Финальный проект) в Yonote:
+https://otchety.yonote.ru/doc/finalnyj-proekt-po-ruchnomu-testirovaniyu-Z9wOYY0giD
+Доступ:
+Irina587511@gmail.com
+MzT7q!UzW-F9SmH
+
+
 ## Структура проекта
 kinopoisk-automation-final/
 ├── config/ # Конфигурационные файлы
@@ -70,4 +82,5 @@ pytest --html=report.html
 Параллельный запуск:
 
 bash
+pytest -n auto
 pytest -n auto
